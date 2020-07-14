@@ -1,0 +1,333 @@
+QUIT	LÎ-KHUI
+Ok	Hó
+Delete	San-tiāu
+Width	Khoah
+Height	Koân
+Name	Miâ
+Sandbox	Soa-phûn
+Tutorial	Kàu-ha̍k
+Cancel	Chhú-siau
+Map	Tē-tô͘
+Clinic	Chin-só͘
+Basic	Ki-pún
+Hospital	Pēⁿ-īⁿ
+Small	Sió
+Small	Sè
+Game	Géim
+Game	Iû-hì
+Save	Sèihu
+Month	Goe̍h
+Week	Lé-pài
+Day	Ji̍t
+card	khá
+management	koán-lí
+Open	Phah-khui
+warning	kèng-pò
+Staff	Jîn-oân
+Patient	Hoān-chiá
+Bank	Gîn-hâng
+loan	tāi-kim
+Total	Chóng-hô
+All	Choân-pō͘
+time	sî-kan
+Language	Gí-giân
+department	pō͘-mn̂g
+Big	Tōa
+default	goân-chho͘ ti̍t
+Restore	Hoe-ho̍k
+Keyboard	Khibò͘
+controls	khòng-chè
+build	khí-chō
+Floor	Thô͘-kha
+Door	Mn̂g
+Window	Thang
+Treat	Tī-liâu
+ambulance	kiù-hō͘-chhia
+account	kháu-chō
+hospitalization	chū-īⁿ
+Yesterday	Chăng
+Today	Kin-á-ji̍t
+Insurance	Pó-hiám
+employee	oân-kang
+Doctor	I-seng
+Nurse	Hō͘-sū
+Medium	Tiong-hêng
+Free	Chū-iû
+Neurology	Sîn-keng-ha̍k
+control	khòng-chè
+master	tachip-jîn
+Hide	Àm-khàm
+Hidden	Àm-khàm ê
+achievement	si̍t-chek
+Internal medicine	Lāi-kho
+Orthopaedy	Chéng-hêng gōa-kho
+Cardiology	Sim-chōng-kho
+Neurology	Sîn-keng-ha̍k
+General	It-poaⁿ
+General surgery	It-poaⁿ gōa-kho
+White	Pe̍h-sek
+Black	O͘-sek
+Grass	Chháu-á
+ceramic tile	hoa-chng
+ceramic tile	thài-lù
+Glass	Po-lê
+WC	Piān-só͘
+X-ray	X-kong
+Cardiology	Sim-chōng-ha̍k
+Elevator	Tiān-thui
+Quit	Lî-khui
+Quit	Siu-soah
+exit	lî-khui
+Dead	Óng-seng
+Symptom	Chèng-thâu
+Examination	Kiám-cha
+Treatment	Tī-liâu
+Discomfort	Bô-sóng-khoài
+Day	Ji̍t-sî
+Night	Àm-sî
+Rename	kái-miâ
+Medium	Tiong
+Low	Kē
+High	Koân
+Room	Pâng-keng
+Load	Lo͘
+yellow	n̂g-sek
+red	âng-sek
+green	le̍k-sek
+blue	nâ-sek
+your	lín
+your	lí ê
+take care of	chiàu-kò͘
+Current	Bo̍k-chêng
+diagnosis	chín-toàn
+table	pió
+No	Boaih
+Bed	Chhn̂g
+Clinic	Chín-só͘
+empty field	khàng-tē
+Upload	Aplo͘
+workshop	kang-liâu
+Unlock	Tháu-pa̍k
+option	siat-tēng
+emergency clinic	kip-chín
+A	Chi̍t-ê
+Campaign	Khāpein
+diagnosis	chín-toān
+diagnosing	chín-toān
+Locked	Hō͘ pa̍k khí
+Hospitalization	tòa-īⁿ
+Hospitalized	ji̍p-īⁿ
+breakfast	chai
+dinner	àm-tǹg
+Wall	Chhiûⁿ-á
+Walls	Piah
+speed	sok-tō͘
+new	sin-ê
+Emergency	Kip-chín
+Day shift	Ji̍t-pan
+Night shift	Iā-pan
+Send	Sàng
+Hire	Chhiáⁿ
+Construction	Kiàn-tiok
+floor	lâu-á
+Regular ward	It-poaⁿ pēⁿ-pâng
+object	bu̍t-phín
+company	kong-si
+Surgery	Gōa-kho
+tech.	ki-su
+Operating room	Chhiú-su̍t-pâng
+virus	pēⁿ-to̍k
+bacteria	sè-khún
+janitor	chheng-kiat jîn-oân
+Waiting room	Tán-thāi sek
+eat	chia̍h-pn̄g
+rest	hioh-khùn
+High dependency unit	Tiong-tiông-tō͘ pēⁿ-pâng
+Coffee	Ka-pi
+Trash bin	Pùn-sò tháng
+Waiting room	Tán-thāi keng
+Hematology	Hoeh-e̍k ha̍k
+Hematology	Hiat-e̍k ha̍k
+Microbiology	Bî-seng-bu̍t
+laboratorie	si̍t-giām-sek
+Lab	si̍t-giām-sek
+Cardiography	Sim-tiān-tô͘
+Fridge	Peng-siuⁿ
+Clock	Sî-cheng
+Cabinet	Kūi-á
+Cabinet	Tû-á
+diagnoses	chín-toàn
+Possible	Khó-lêng ê
+Final diagnosis	Khak-tēng chín-toàn
+Final diagnosis	Chín-toàn kiat-kó
+Payment	Chi-hut
+pain	thiàⁿ
+Eye	Ba̍k-chiu
+Headache	Thâu-thiàⁿ
+Itchy	chiūⁿ
+ambiguous	ài-māi
+Thirst	Chhùi-ta
+Swelling	Chéng
+Head	Thâu
+Hand	Chhiú
+contusion	chhè-siong
+Leg	Thúi
+bruise	o͘-chheⁿ
+Ankle	Kha-ba̍k
+Chest	Heng-khám
+bone	kut
+Discomfort	Kan-khó͘
+surgery	Chhiú-su̍t
+Advance	Chìn-kai
+Bandage	Pò͘-tiâu
+Observation	Koan-chhat
+Exercise	Ūn-tōng
+Larynx	Âu-thâu
+Laryngitis	Âu-thâu-iām
+Diarrhea	Hā-lī
+nephritis	sīn-chōng-iām
+nitrogen	Chek-sò͘
+Swollen	Chéng-tiùⁿ
+Typhus	Chì-hû-su
+Esophagus	Chia̍h-tō
+Oesophagus	Chia̍h-tō
+Fistula	Tī-lāu
+intestine	tn̂g
+tapeworm	tòa-thâng
+Pork	Ti-bah
+flatworms	píⁿ-pîⁿ-thâng
+parasitic	kià-seng-sèng
+infection	thoân-jiám
+Beef	Gû-bah
+digestive system	siau-hòa hē-thóng
+humans	lâng
+Pharyngitis	Ian-thâu-iām
+tonsils	Píⁿ-thô-chôaⁿ
+Bacterial	Sè-khún-sèng
+tonsillitis	píⁿ-thô-chôaⁿ-iām
+Viral	Pēⁿ-to̍k-sèng
+Bronchitis	khì-kńg-chi-iām
+Diabetes	Thn̂g-jiō-chèng
+Pneumonia	Hì-iām
+chronic	bān-sèng
+Lung	Hì
+Ligament	jīm-tài
+fracture	kut-chi̍h
+Nasal	Phīⁿ
+jaw	go̍k-kut
+blisters	phā
+scab	kiat-ka
+Streptococcus	Liân-só-chōng kiû-khún
+Bandage	Pheng-tòa
+scab	kian-phí
+eventually	siōng-bóe
+Chickenpox	Chúi-chu
+Shingles	Phôe-chôa sio̍h
+Tinea unguium	Pe̍h-chéng-kah
+Onychomycosis	Chéng-kah-sián
+Anemia	Hiat-hu
+anemia	huih-hu
+lactose	leng-thn̂g
+digest	siau-hòa
+respiratory system	ho͘-khip-khì hē-thóng
+upper	téng-bīn
+swelling	chéng-tiùⁿ
+cold	kám-mō͘
+nose	phiⁿ-á
+Sinusitis	Hù-phīⁿ-khang-iām
+inflammation	hoat-iām
+one	chi̍t-ê
+sinuses	hù-phīⁿ-khang
+causes	tì-sú
+mucus	liâm-e̍k
+pus	lok-lâng
+Influenza	Liû-kám
+pollen	hoe-hún
+Hay fever	Ta-chháu-jia̍t
+rhinitis	ka-tap-jî
+common	sò͘-siông
+the flu	liû-kám
+dermatitis	phôe-hu-iām
+irritation	chhì-kek
+allergen	kòe-bín-goân
+tendons	kiàn
+muscles	kun-bah
+outdoor	gōa-kháu
+syndrome	chèng-hāu-kûn
+Hepatitis	koaⁿ-iām
+pancreatic	chūi-chōng
+Exocrine	Gōa-hun-pì
+absorption	khip-siu
+nutrients	chu-ióng-liāu
+contusion	gêng-hoeh
+Kidney	Io-chí
+pancreas	chūi-chōng
+pulmonary	hì
+pulmonary	hì-chōng
+spleen	Pî-chōng
+thyroiditis	kah-chōng-chôaⁿ-iām
+thyroid	kah-chōng-chôaⁿ
+thyroid gland	kah-chōng-chôaⁿ
+functions	ki-lêng
+hormone	ho͘-lú-bóng
+immune	bián-e̍k
+system	hē-thóng
+enlarged	pûi-tōa
+veins	chēng-me̍h
+ulcers	ùi-iông
+peptic	ūi
+peptic	siau-hòa-sèng
+pump	chúi-hia̍p-á
+Challenge	Thiau-chiàn
+Equipment	Chong-pī
+desk	toh-á
+Number	Sò͘-jī
+decoration	chng-sek-phín
+Grass	Chháu-á
+Aluminum	A-lú-mih
+Aluminum	Alúmih
+Brick	chng-á
+Kitchen	Chàu-kha
+top	bīn-téng
+Stainless steel	Pe̍h-thih
+Trauma center	Kip-chín keng
+blocked	chó͘-gāi
+fever	jia̍t-pēⁿ
+tissue	cho͘-chit
+obstructed	pì-that
+appendix	thâng-iūⁿ-sûi
+contagious	thoân-jiám-sèng
+anatomical	kái-phò-ha̍k
+hollow spaces	khang
+peritonitis	pak-mo̍h-iām
+peritoneum	pak-mo̍h
+scar tissue	khî-ê cho͘-chit
+Gallstones	Táⁿ-chio̍h
+Gallstones	tám-lîm
+cholelithiasis	táⁿ-chio̍h
+cystic duct	táⁿ-kńg
+cystic duct	táⁿ-lông-kńg
+blockage	chó͘-tòng
+blockage	chó͘-gāi
+alcohol abuse	siong-chiú
+autoimmune	chū-sin bián-e̍k
+Glomerulonephritis	Si-kiû-thé-io-chí-iām
+bile duct	táⁿ-kńg
+usually	it-poaⁿ
+duodenum	cha̍p-jī-chí-tn̂g
+from	ùi
+adverse	ge̍k
+failure	sit-pāi
+Acute	Kip-sèng
+renal	io-chí
+blood	hoeh
+urine	jiō
+bladder	phōng-kong
+water	chúi
+Cholera	Hó͘-lia̍t-la
+sewage	chúi-âm-kóng
+Typhoid fever	Tn̂g-jia̍t-pēⁿ
+Amoebiasis	Amoeba sèng chhiah-lī
+Amoebiasis	Amoeba chèng
+Tuberculosis	Kiat-hu̍t
+Tuberculosis	Lô-pēⁿ
