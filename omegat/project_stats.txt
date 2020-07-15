@@ -1,17 +1,17 @@
-7/15/20 12:35 AM
+7/15/20 10:30 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
 Total:           	    5296	38685	                     214848	                       247978	    23	
-Remaining:       	    3877	34469	                     188917	                       218860	    23	
+Remaining:       	    3872	34365	                     188305	                       218149	    23	
 Unique:          	    4385	36755	                     201869	                       233628	    23	
-Unique Remaining:	    3594	33334	                     182513	                       211615	    23	
+Unique Remaining:	    3589	33230	                     181901	                       210904	    23	
 
 
 Individual File Statistics:
 
 File Name                          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-StringTableEnDiagnoses.xml         	           483	               305	            465	                      297	       6127	           4130	        5860	                  3948	                            33726	                                22367	                             32314	                                       21455	                              39396	                                  26201	                               37720	                                         25115	
+StringTableEnDiagnoses.xml         	           483	               300	            465	                      292	       6127	           4026	        5860	                  3844	                            33726	                                21755	                             32314	                                       20843	                              39396	                                  25490	                               37720	                                         24404	
 StringTableEnUI.xml                	           732	               336	            585	                      312	       2116	           1415	        1955	                  1367	                            12711	                                 8247	                             11453	                                        7966	                              14166	                                   9334	                               12838	                                          9029	
 StringTableEnTutorial.xml          	           302	               265	            253	                      251	       6352	           6304	        6266	                  6229	                            30516	                                30011	                             29790	                                       29619	                              36038	                                  35474	                               35263	                                         35057	
 StringTableEnTreatments.xml        	           255	               236	            245	                      232	       2943	           2911	        2920	                  2903	                            17412	                                17089	                             17213	                                       17038	                              20123	                                  19784	                               19907	                                         19728	
