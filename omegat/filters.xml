@@ -188,7 +188,7 @@
     <filter className="net.sf.okapi.lib.omegat.XMLFilter" enabled="true">
         <files sourceFilenameMask="StringTableEn*.xml" targetFilenamePattern="StringTableTws${1}.xml" targetEncoding="UTF-8"/>
         <option name="includeTUName" value="yes"/>
-        <option name="useCustom" value="C:\Users\kwueron\Documents\hoanek\ProjectHospital\filter\okf_xml@project_hospital.fprm"/>
+        <option name="useCustom" value="C:\omegafilter\okf_xml@project_hospital.fprm"/>
         <option name="useDefault" value="no"/>
     </filter>
     <filter className="net.sf.okapi.lib.omegat.TSFilter" enabled="false">
