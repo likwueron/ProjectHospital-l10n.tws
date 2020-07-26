@@ -5027,6 +5027,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patient got incorrectly diagnosed!</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T171714Z" creationid="Lí KhunIông" creationdate="20200726T171714Z">
+        <seg>Chìn-chêng tùi chit-ê hoān-chiá ê chín-toàn m̄-tio̍h!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patient on clinic</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200530T133239Z" creationid="Lí KhunIông" creationdate="20200530T133239Z">
