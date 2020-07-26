@@ -3539,6 +3539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insurance management</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T171828Z" creationid="Lí KhunIông" creationdate="20200726T171828Z">
+        <seg>Pó-hiám koán-lí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insurance payment:</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200601T153325Z" creationid="Lí KhunIông" creationdate="20200601T153325Z">
@@ -4135,6 +4143,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200716T131314Z" creationid="Lí KhunIông" creationdate="20200716T131314Z">
         <seg>Kun-thoân-khún pēⁿ sī sè-khún Legionella pneumophila tì-sú ê. Chit-chióng pēⁿ siōng-bóe ē piàn-chó tiōng hì-iām, mā ē ti̍t-chiap thoân-jiám hō͘ pa̍t-lâng. Bô tī-liâu ê hoān-chiá it-poaⁿ ē óng-seng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let the doctor try</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T171753Z" creationid="Lí KhunIông" creationdate="20200726T171753Z">
+        <seg>Hō͘ i-seng chhì-khòaⁿ-māi.</seg>
       </tuv>
     </tu>
     <tu>
