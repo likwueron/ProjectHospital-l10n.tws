@@ -1867,10 +1867,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display blood</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T170808Z" creationid="Lí KhunIông" creationdate="20200726T170808Z">
+        <seg>Phiau-sī lâu-hoeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you really want to send this patient to another hospital?</seg>
       </tuv>
-      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200619T145337Z" creationid="Lí KhunIông" creationdate="20200619T145337Z">
-        <seg>Lí kám chin-sim ài sàng chi̍t-ê hoān-chiá kàu pa̍t-ê pēⁿ-īⁿ?</seg>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T170644Z" creationid="Lí KhunIông" creationdate="20200619T145337Z">
+        <seg>Lí kám chin-sim beh sàng chi̍t-ê hoān-chiá kàu pa̍t-ê pēⁿ-īⁿ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5759,6 +5767,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200530T133147Z" creationid="Lí KhunIông" creationdate="20200530T133147Z">
         <seg>Sàng hoān-chiá khì KHPP(ICU)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending a patient away.</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T170627Z" creationid="Lí KhunIông" creationdate="20200726T170627Z">
+        <seg>Sàng-cháu hoān-chiá.</seg>
       </tuv>
     </tu>
     <tu>
