@@ -1771,6 +1771,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Department is not working!</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T171508Z" creationid="Lí KhunIông" creationdate="20200726T171508Z">
+        <seg>Pō͘-mn̂g chit-má pàng-kang!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Department's warnings</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200531T134322Z" creationid="Lí KhunIông" creationdate="20200531T134322Z">
