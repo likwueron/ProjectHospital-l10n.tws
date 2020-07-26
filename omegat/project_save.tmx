@@ -2131,6 +2131,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Employee got drunk last night!</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T171134Z" creationid="Lí KhunIông" creationdate="20200726T171134Z">
+        <seg>Oân-kang châng lim bâng-bâng!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Employees - all</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200529T142152Z" creationid="Lí KhunIông" creationdate="20200529T142152Z">
@@ -3203,6 +3211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hospital now accepts patients!</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T170843Z" creationid="Lí KhunIông" creationdate="20200726T170843Z">
+        <seg>Pēⁿ-īⁿ khai-sí siu hoān-chiá!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hospital warnings</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200526T144434Z" creationid="Lí KhunIông" creationdate="20200526T144434Z">
@@ -3503,6 +3519,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200531T024400Z" creationid="Lí KhunIông" creationdate="20200531T024400Z">
         <seg>Pó-hiám kong-si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insurance company can be contracted!</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T171022Z" creationid="Lí KhunIông" creationdate="20200726T171022Z">
+        <seg>Ē-tàng kā pó-hiám kong-si chhiam-iok!</seg>
       </tuv>
     </tu>
     <tu>
