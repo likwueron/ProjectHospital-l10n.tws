@@ -11,8 +11,8 @@
 <Name>Garrick</Name>
 <Name>ChhòaNiau</Name>
 <Name>Saipakhō͘</Name> </Contributors> <!-- Note: feel free to rearrange any sentences with the parameter {1} so the word order makes sense --> <LocalizedStrings>
-            <GameDBLocalizedString>    <LocID>OPTIONS_EDGE_SCROLLING</LocID>                  <Text>Edge scrolling</Text>  </GameDBLocalizedString> <!-- RELATED FILE: StringTable[Language]Notifications.xml --> <GameDBLocalizedString>      <LocID>CONFIRM_SEND_PATIENT_AWAY_TITLE</LocID>       <Text>Sending a patient away.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CONFIRM_SEND_PATIENT_AWAY_TEXT</LocID>        <Text>Lí kám chin-sim ài sàng chi̍t-ê hoān-chiá kàu pa̍t-ê pēⁿ-īⁿ?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>OPTIONS_EDGE_SCROLLING</LocID>                  <Text>Edge scrolling</Text>  </GameDBLocalizedString> <!-- RELATED FILE: StringTable[Language]Notifications.xml --> <GameDBLocalizedString>      <LocID>CONFIRM_SEND_PATIENT_AWAY_TITLE</LocID>       <Text>Sàng-cháu hoān-chiá.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CONFIRM_SEND_PATIENT_AWAY_TEXT</LocID>        <Text>Lí kám chin-sim beh sàng chi̍t-ê hoān-chiá kàu pa̍t-ê pēⁿ-īⁿ?</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>POPUP_CONFIRM_SEND_PATIENT_AWAY</LocID>       <Text>Sàng-cháu</Text>  </GameDBLocalizedString>
 
