@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(NOT ACCESSIBLE FOR PATIENTS)</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T134235Z" creationid="Lí KhunIông" creationdate="20200806T134235Z">
+        <seg>(HOĀN-CHIÁ BÔ-HOAT-TŌ͘ LI̍P-KHÌ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>:)</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200528T130522Z" creationid="Lí KhunIông" creationdate="20200528T130522Z">
@@ -4395,6 +4403,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Missing required rooms</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T134403Z" creationid="Lí KhunIông" creationdate="20200806T134403Z">
+        <seg>Khiàm pâng-keng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing required staff</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T134352Z" creationid="Lí KhunIông" creationdate="20200806T134352Z">
+        <seg>Khiàm jîn-oân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Month</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200526T144208Z" creationid="Lí KhunIông" creationdate="20200526T144208Z">
@@ -4431,6 +4455,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200528T130348Z" creationid="Lí KhunIông" creationdate="20200528T130348Z">
         <seg>SIN KIO̍K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NOT ACCESSIBLE</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T134205Z" creationid="Lí KhunIông" creationdate="20200806T134205Z">
+        <seg>BÔ-HOAT-TŌ͘ LI̍P-KHÌ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,6 +4855,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T154201Z" creationid="Lí KhunIông" creationdate="20200527T154201Z">
         <seg>Phah-khui bo̍k-chêng pō͘-mn̂g koán-lí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open department management</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T134332Z" creationid="Lí KhunIông" creationdate="20200806T134332Z">
+        <seg>Phah-khui pō͘-mn̂g koán-lí</seg>
       </tuv>
     </tu>
     <tu>
