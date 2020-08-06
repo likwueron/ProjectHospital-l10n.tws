@@ -6211,6 +6211,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Texture quality: High</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T134048Z" creationid="Lí KhunIông" creationdate="20200806T134048Z">
+        <seg>Theh-tô͘ phín-chit: Koân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Texture quality: Low</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T134110Z" creationid="Lí KhunIông" creationdate="20200806T134110Z">
+        <seg>Theh-tô͘ phín-chit: Kē</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The affected area is very sensitive when touched.</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200602T142116Z" creationid="Lí KhunIông" creationdate="20200602T142116Z">
