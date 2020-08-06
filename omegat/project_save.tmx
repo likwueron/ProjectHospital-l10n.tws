@@ -1739,6 +1739,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Day shift staffed</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T142059Z" creationid="Lí KhunIông" creationdate="20200806T142059Z">
+        <seg>Ji̍t-pan jîn-oân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Day shift: Clinic</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200530T123545Z" creationid="Lí KhunIông" creationdate="20200530T123545Z">
@@ -4659,6 +4667,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Night shift staffed</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T142120Z" creationid="Lí KhunIông" creationdate="20200806T142120Z">
+        <seg>Iā-pan jîn-oân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Night shift: Clinic</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200530T123605Z" creationid="Lí KhunIông" creationdate="20200530T123605Z">
@@ -5679,6 +5695,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200619T132327Z" creationid="Lí KhunIông" creationdate="20200619T132327Z">
         <seg>It-poaⁿ pēⁿ-pâng - 4 x 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove doors or windows</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T142038Z" creationid="Lí KhunIông" creationdate="20200806T142038Z">
+        <seg>Thiah-tiāu mn̂g kah thang</seg>
       </tuv>
     </tu>
     <tu>
