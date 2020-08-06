@@ -947,6 +947,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build pillars</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141905Z" creationid="Lí KhunIông" creationdate="20200806T141905Z">
+        <seg>Khí pâng-thiāu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Build walls</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141810Z" creationid="Lí KhunIông" creationdate="20200806T141810Z">
+        <seg>Khí chhiûⁿ-piah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Building mode (F6)</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T154013Z" creationid="Lí KhunIông" creationdate="20200527T154013Z">
@@ -1779,10 +1795,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decorations</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141937Z" creationid="Lí KhunIông" creationdate="20200806T141937Z">
+        <seg>Chng-sek-phín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200526T003200Z" creationid="Lí KhunIông" creationdate="20200526T003200Z">
         <seg>San-tiāu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete walls</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T142004Z" creationid="Lí KhunIông" creationdate="20200806T142004Z">
+        <seg>Thiah-tiāu chhiûⁿ-piah</seg>
       </tuv>
     </tu>
     <tu>
@@ -4367,6 +4399,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200526T141009Z" creationid="Lí KhunIông" creationdate="20200526T135506Z">
         <seg>Tē-tô͘ phian-chip ke-si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical equipment</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141925Z" creationid="Lí KhunIông" creationdate="20200806T141925Z">
+        <seg>I-ha̍k chong-pī</seg>
       </tuv>
     </tu>
     <tu>
