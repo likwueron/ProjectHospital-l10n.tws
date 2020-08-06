@@ -443,6 +443,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Angriest</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T140005Z" creationid="Lí KhunIông" creationdate="20200806T140005Z">
+        <seg>Siōng bōe-sóng ê</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ankle contusion</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200615T151249Z" creationid="Lí KhunIông" creationdate="20200602T150353Z">
@@ -1223,6 +1231,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200615T174002Z" creationid="Lí KhunIông" creationdate="20200615T174002Z">
         <seg>Tōa-náu gêng-hoeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certainty</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T140122Z" creationid="Lí KhunIông" creationdate="20200806T140122Z">
+        <seg>Khak-tēng-sèng</seg>
       </tuv>
     </tu>
     <tu>
@@ -2823,6 +2839,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200619T134035Z" creationid="Lí KhunIông" creationdate="20200619T134035Z">
         <seg>Chhiú thiàⁿ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Happiest</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T140025Z" creationid="Lí KhunIông" creationdate="20200806T140025Z">
+        <seg>Siōng hoaⁿ-hí ê</seg>
       </tuv>
     </tu>
     <tu>
@@ -4579,6 +4603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Night shift not staffed.</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T135911Z" creationid="Lí KhunIông" creationdate="20200806T135911Z">
+        <seg>Iā-pan bô-lâng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Night shift: Clinic</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200530T123605Z" creationid="Lí KhunIông" creationdate="20200530T123605Z">
@@ -4871,6 +4903,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200528T165356Z" creationid="Lí KhunIông" creationdate="20200528T165356Z">
         <seg>Phah-khui chín-toān pió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open examination table</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T140213Z" creationid="Lí KhunIông" creationdate="20200806T140213Z">
+        <seg>Phah-khui kiám-cha pió</seg>
       </tuv>
     </tu>
     <tu>
