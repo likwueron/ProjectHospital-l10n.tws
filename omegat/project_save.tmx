@@ -3347,6 +3347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hospitalized patients / all available spaces</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141643Z" creationid="Lí KhunIông" creationdate="20200806T141643Z">
+        <seg>Tòa-īⁿ hoān-chiá / choân-pō͘ ê pēⁿ-chhn̂g</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hunger</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T172115Z" creationid="Lí KhunIông" creationdate="20200527T172115Z">
@@ -4899,6 +4907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open department's patient table</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141608Z" creationid="Lí KhunIông" creationdate="20200806T141608Z">
+        <seg>Phah-khui pō͘-mn̂g hoān-chiá pió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open diagnosis table</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200528T165356Z" creationid="Lí KhunIông" creationdate="20200528T165356Z">
@@ -5143,6 +5159,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200526T144506Z" creationid="Lí KhunIông" creationdate="20200526T144506Z">
         <seg>Hoān-chiá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patients at high dependency unit</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141748Z" creationid="Lí KhunIông" creationdate="20200806T141748Z">
+        <seg>Tī tiong-tiông-tō͘ pēⁿ-pâng ê hoān-chiá</seg>
       </tuv>
     </tu>
     <tu>
