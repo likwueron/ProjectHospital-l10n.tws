@@ -5211,6 +5211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patient's bed got broken.</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200807T145956Z" creationid="Lí KhunIông" creationdate="20200807T145956Z">
+        <seg>Hoān-chiá ê pēⁿ-chhn̂g pháiⁿ-khì ah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patients</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200526T144506Z" creationid="Lí KhunIông" creationdate="20200526T144506Z">
@@ -6907,6 +6915,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waiting for ambulance</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200807T145803Z" creationid="Lí KhunIông" creationdate="20200807T145803Z">
+        <seg>Tī leh tán kiù-hō͘-chhia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waiting room</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200531T144222Z" creationid="Lí KhunIông" creationdate="20200531T141420Z">
@@ -7399,6 +7415,22 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200604T142406Z" creationid="Lí KhunIông" creationdate="20200604T142406Z">
         <seg>solium) sī chi̍t-chióng tòa tī lâng ê siau-hòa hē-thóng lāi ê kià-seng-sèng píⁿ-pîⁿ-thâng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>waiting for a doctor/technologist for treatment</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200807T145905Z" creationid="Lí KhunIông" creationdate="20200807T145905Z">
+        <seg>tī-leh tán i-seng/ki-su tī-liâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>waiting for surgical team</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200807T145839Z" creationid="Lí KhunIông" creationdate="20200807T145839Z">
+        <seg>tī-leh tán chhiú-su̍t team</seg>
       </tuv>
     </tu>
     <tu>
