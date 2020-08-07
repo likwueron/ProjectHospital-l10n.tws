@@ -1803,6 +1803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Death allowed</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200807T150129Z" creationid="Lí KhunIông" creationdate="20200807T150129Z">
+        <seg>Lâng ē sí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decorations</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141937Z" creationid="Lí KhunIông" creationdate="20200806T141937Z">
@@ -5179,6 +5187,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patient can't be hospitalized!</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200807T150225Z" creationid="Lí KhunIông" creationdate="20200807T150225Z">
+        <seg>Hoān-chiá bōe-tàng tòa-īⁿ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patient can't talk.</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200601T144103Z" creationid="Lí KhunIông" creationdate="20200601T144103Z">
@@ -5199,6 +5215,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T171714Z" creationid="Lí KhunIông" creationdate="20200726T171714Z">
         <seg>Chìn-chêng tùi chit-ê hoān-chiá ê chín-toàn m̄-tio̍h!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patient is leaving.</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200807T150316Z" creationid="Lí KhunIông" creationdate="20200807T150316Z">
+        <seg>Hoān-chiá leh lî-khui ah.</seg>
       </tuv>
     </tu>
     <tu>
