@@ -355,6 +355,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambulance area</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T065846Z" creationid="Lí KhunIông" creationdate="20200808T065846Z">
+        <seg>Kiù-hō͘-chhia khu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ambulance parking</seg>
       </tuv>
       <tuv lang="TWS" changeid="kwueron" changedate="20200625T151330Z" creationid="kwueron" creationdate="20200625T151330Z">
@@ -2783,6 +2791,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200531T143001Z" creationid="Lí KhunIông" creationdate="20200530T143613Z">
         <seg>Khì kiám-siong sek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Going to waiting room</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T065721Z" creationid="Lí KhunIông" creationdate="20200808T065721Z">
+        <seg>Cháu-khì tán-thāi keng</seg>
       </tuv>
     </tu>
     <tu>
@@ -6107,6 +6123,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sent home</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T065644Z" creationid="Lí KhunIông" creationdate="20200808T065644Z">
+        <seg>Sàng tńg--khì chhù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Seriously?</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200528T164251Z" creationid="Lí KhunIông" creationdate="20200528T164251Z">
@@ -7403,6 +7427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>high</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T065617Z" creationid="Lí KhunIông" creationdate="20200808T065617Z">
+        <seg>koân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hungry</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200603T143320Z" creationid="Lí KhunIông" creationdate="20200603T143320Z">
@@ -7447,6 +7479,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T065608Z" creationid="Lí KhunIông" creationdate="20200808T065608Z">
         <seg>kē</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medium</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T065613Z" creationid="Lí KhunIông" creationdate="20200808T065613Z">
+        <seg>tiong</seg>
       </tuv>
     </tu>
     <tu>
