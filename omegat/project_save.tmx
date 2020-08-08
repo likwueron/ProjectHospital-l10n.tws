@@ -4707,6 +4707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Night owl</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T023228Z" creationid="Lí KhunIông" creationdate="20200808T023228Z">
+        <seg>Àm-kong-chiáu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Night shift</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T172248Z" creationid="Lí KhunIông" creationdate="20200527T172248Z">
@@ -7079,6 +7087,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200526T003256Z" creationid="Lí KhunIông" creationdate="20200526T003229Z">
         <seg>Khoah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Works much more efficiently during the night.</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T023518Z" creationid="Lí KhunIông" creationdate="20200808T023518Z">
+        <seg>Àm-sî khah ū cheng-sîn khang-khòe.</seg>
       </tuv>
     </tu>
     <tu>
