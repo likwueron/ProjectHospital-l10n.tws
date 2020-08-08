@@ -2019,6 +2019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doctors - clinic</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T022606Z" creationid="Lí KhunIông" creationdate="20200808T022606Z">
+        <seg>I-seng - mn̂g-chín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't use</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200618T154629Z" creationid="Lí KhunIông" creationdate="20200618T154629Z">
@@ -2247,6 +2255,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200529T142229Z" creationid="Lí KhunIông" creationdate="20200529T142229Z">
         <seg>Oân-kang - i-seng kah hō͘-sū</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Employees - janitors</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T022705Z" creationid="Lí KhunIông" creationdate="20200808T022705Z">
+        <seg>Oân-kang - chheng-kiat jîn-oân</seg>
       </tuv>
     </tu>
     <tu>
@@ -2703,6 +2719,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T150920Z" creationid="Lí KhunIông" creationdate="20200527T150920Z">
         <seg>Po-lê mn̂g</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glass office desk</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T022923Z" creationid="Lí KhunIông" creationdate="20200808T022923Z">
+        <seg>Po-lê pān-kong toh</seg>
       </tuv>
     </tu>
     <tu>
@@ -6151,6 +6175,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200619T143205Z" creationid="Lí KhunIông" creationdate="20200619T143205Z">
         <seg>Hù-phīⁿ-khang-iām  tio̍h-sī kóng chi̍t-ê a̍h-sī khah-chē ê hù-phīⁿ-khang hoat-iām. Hù-phīⁿ-khang-iām ē tì-sú chéng-tiùⁿ, chit-khoán chêng-hêng ē hō͘ liâm-e̍k a̍h-sī lok-lâng pâi-tī ê hāu-lut kiám-chió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skull</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200808T022807Z" creationid="Lí KhunIông" creationdate="20200808T022807Z">
+        <seg>Thâu-khak</seg>
       </tuv>
     </tu>
     <tu>
