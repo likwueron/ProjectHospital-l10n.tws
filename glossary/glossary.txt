@@ -332,3 +332,5 @@ Amoebiasis	Amoeba chèng
 Tuberculosis	Kiat-hu̍t
 Tuberculosis	Lô-pēⁿ
 infected	òe-tio̍h
+Oxygen	Sng-sò͘
+tank	chô
