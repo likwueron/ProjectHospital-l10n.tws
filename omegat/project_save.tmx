@@ -1979,6 +1979,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you like my hospital?</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T082100Z" creationid="Lí KhunIông" creationdate="20200809T082100Z">
+        <seg>Lí kám kah-ì góa ê pēⁿ-īⁿ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you really want to send this patient to another hospital?</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200726T170644Z" creationid="Lí KhunIông" creationdate="20200619T145337Z">
@@ -3067,6 +3075,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hello? Anybody?</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T082227Z" creationid="Lí KhunIông" creationdate="20200809T082227Z">
+        <seg>Ū-lâng tī-leh bô?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hematology Lab</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200531T144648Z" creationid="Lí KhunIông" creationdate="20200531T144518Z">
@@ -3343,6 +3359,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T003501Z" creationid="Lí KhunIông" creationdate="20200527T003501Z">
         <seg>Pēⁿ-īⁿ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hospital 51</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T082020Z" creationid="Lí KhunIông" creationdate="20200809T082020Z">
+        <seg>Pēⁿ-īⁿ 51 khu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5495,6 +5519,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200806T141542Z" creationid="Lí KhunIông" creationdate="20200806T141542Z">
         <seg>Kè-ōe ê tī-liâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Play for 8 hours.</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T082336Z" creationid="Lí KhunIông" creationdate="20200809T082336Z">
+        <seg>Sńg 8 tiám-cheng.</seg>
       </tuv>
     </tu>
     <tu>
