@@ -2763,6 +2763,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Glass wall</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T082543Z" creationid="Lí KhunIông" creationdate="20200809T082543Z">
+        <seg>Po-lê chhiûⁿ-piah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glassware</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200619T133412Z" creationid="Lí KhunIông" creationdate="20200619T133412Z">
@@ -7179,10 +7187,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>White tiles</seg>
+        <seg>White wall</seg>
       </tuv>
-      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T145446Z" creationid="Lí KhunIông" creationdate="20200527T145446Z">
-        <seg>White tiles</seg>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T082415Z" creationid="Lí KhunIông" creationdate="20200809T082415Z">
+        <seg>Pe̍h-sek ê chhiûⁿ-piah</seg>
       </tuv>
     </tu>
     <tu>
