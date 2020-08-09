@@ -1619,6 +1619,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Congratulations, you placed your first object!</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T081729Z" creationid="Lí KhunIông" creationdate="20200809T081729Z">
+        <seg>Kiong-hí, lí thâu-chi̍t-ê bu̍t-phín!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Construction floor</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200530T154952Z" creationid="Lí KhunIông" creationdate="20200527T145209Z">
@@ -5459,10 +5467,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place 100 decorations.</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T081906Z" creationid="Lí KhunIông" creationdate="20200809T081906Z">
+        <seg>Khǹg 100 ê chng-sek-phín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place 100 single objects.</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200531T024001Z" creationid="Lí KhunIông" creationdate="20200531T024001Z">
         <seg>Khǹg 100 ê bu̍t-phín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place 1000 single objects.</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T081758Z" creationid="Lí KhunIông" creationdate="20200809T081758Z">
+        <seg>Khǹg 1000 ê bu̍t-phín.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7239,6 +7263,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T003343Z" creationid="Lí KhunIông" creationdate="20200527T003343Z">
         <seg>Chăng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You shall not pass!</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200809T082005Z" creationid="Lí KhunIông" creationdate="20200809T082005Z">
+        <seg>Lí m̄-thang kòe!</seg>
       </tuv>
     </tu>
     <tu>
