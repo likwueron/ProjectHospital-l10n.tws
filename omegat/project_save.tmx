@@ -235,6 +235,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abdominal surgery</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200812T145058Z" creationid="Lí KhunIông" creationdate="20200812T145058Z">
+        <seg>Pak-tó͘ chhiú-su̍t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active examinations</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200601T144406Z" creationid="Lí KhunIông" creationdate="20200601T144406Z">
@@ -2571,6 +2579,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fracture surgery - Head</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200812T145234Z" creationid="Lí KhunIông" creationdate="20200812T145234Z">
+        <seg>Thâu-khak kut-chi̍h chhiú-su̍t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Free building</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200527T124439Z" creationid="Lí KhunIông" creationdate="20200527T124439Z">
@@ -3359,6 +3375,14 @@
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200531T144857Z" creationid="Lí KhunIông" creationdate="20200531T144857Z">
         <seg>Cho͘-chit si̍t-giām-sek - 8 x 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home treatment</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200812T145443Z" creationid="Lí KhunIông" creationdate="20200812T145443Z">
+        <seg>Chhù-nih hioh-khùn</seg>
       </tuv>
     </tu>
     <tu>
