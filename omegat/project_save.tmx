@@ -6563,6 +6563,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TC hospitalization</seg>
+      </tuv>
+      <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200812T145505Z" creationid="Lí KhunIông" creationdate="20200812T145505Z">
+        <seg>Kip-chín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TITLE_SCREEN_ANIM_TEST</seg>
       </tuv>
       <tuv lang="TWS" changeid="Lí KhunIông" changedate="20200526T120856Z" creationid="Lí KhunIông" creationdate="20200526T120856Z">
